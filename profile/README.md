@@ -6,4 +6,5 @@
 
 # History
 - `ai-summary`
-  - 2026-10-02. **Data preparation** - load, preprocessing, and EDA.
+  - 2026-10-02. **Data Preparation** - Load / Preprocessing / EDA
+  - 2026-10-03. **Supervised Learning** - Linear models / SVM / Naive Bayes / Gaussian process
