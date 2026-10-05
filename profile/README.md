@@ -7,4 +7,6 @@
 # History
 - `ai-summary`
   - 2026-10-02. **Data Preparation** - Load / Preprocessing / EDA
-  - 2026-10-03. **Supervised Learning** - Linear models / SVM / Naive Bayes / Gaussian process
+  - 2026-10-03. **Supervised Learning** - Linear Models / SVM / Naive Bayes / Gaussian Process
+  - 2026-10-04. **Supervised Learning** - Decision Tree / Random forest / Gradient-Boosted Decision Trees
+  - 2026-10-05. **Unsupervised Learning** - Clustering / Density Estimation / Dimensionality Reduction
