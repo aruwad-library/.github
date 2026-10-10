@@ -17,7 +17,7 @@
   - 2026-10-09. **Competition** - H1N1, complete (**top 3.92%; 96/2448)**.
 
 ## NLP
-  - 2026-10-10. **Transformer** - Tokenizer / Embedding / Attention
+  - 2026-10-10. **Transformer** - Tokenizer / Embedding / Attention, **Competition** - Arena, start.
   - 2026-10-11. **Pretraining**
   - 2026-10-12. **Fine-Tuning**
   - 2026-10-13. **Generation**
