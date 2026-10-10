@@ -18,7 +18,6 @@
 
 ## NLP
   - 2026-10-10. **Transformer** - Tokenizer / Embedding / Attention
-  
   - 2026-10-11. **Pretraining**
   - 2026-10-12. **Fine-Tuning**
   - 2026-10-13. **Generation**
