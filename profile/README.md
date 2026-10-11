@@ -18,10 +18,6 @@
 
 ## NLP
   - 2026-10-10. **Transformer** - Tokenizer / Embedding / Attention, **Competition** - Arena, start.
-  - 2026-10-11. **Pretraining**
-  - 2026-10-12. **Fine-Tuning**
-  - 2026-10-13. **Generation**
-  - 2026-10-14. **Evaluation**
-  - 2026-10-15. **RAG**
-  - 2026-10-16. **LLM System**
-  - 2026-10-17. **Advanced Topics**
+  - 2026-10-11. **Tokenizer** - API / Normalizer / Pre-Tokenizer / Model / Post-Processor, **Competition** - Arena, LoRA.
+  - 2026-10-12. **Transformer** - RoPE / GQA / KV-Cache / Causal Mask / LM Head, **Competition** - Arena, ensemble with `gemma2-9b`.
+
