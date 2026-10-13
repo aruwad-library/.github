@@ -21,5 +21,5 @@
   - 2026-10-10. **Transformer** - Tokenizer / Embedding / Attention, **Competition** - Arena, start.
   - 2026-10-11. **Tokenizer** - API / Normalizer / Pre-Tokenizer / Model / Post-Processor, **Competition** - Arena, 1st day.
   - 2026-10-12. **Transformer** - RoPE / GQA / KV-Cache / Causal Mask / LM Head, **Pretraining** - `TinyLM`, **Competition** - Arena, 2nd day.
-  - 2026-10-13. **Fine-Tuning** - Head-Only / QLoRA / HPO / SFT / DPO, **Competition** - Arena, 3rd day **(top 11.20%; 28 / 250).)**.
+  - 2026-10-13. **Fine-Tuning** - Head-Only / QLoRA / HPO / SFT / DPO, **Competition** - Arena, 3rd day **(top 11.20%; 28 / 250)**.
 
