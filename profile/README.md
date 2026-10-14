@@ -23,3 +23,4 @@
   - 2026-10-12. **[Transformer]** RoPE / GQA / KV-Cache / Causal Mask / LM Head, **[Pretraining]** `TinyLM`, **[Competition]** Arena - 2nd day
   - 2026-10-13. **[Fine-Tuning]** Head-Only / QLoRA / HPO / SFT / DPO, **[Competition]** Arena - 3rd day **(top 11.20%; 28 / 250)**
   - 2026-10-14. **[Generation]** Sampling / KV-Cache / Batching, **[Evaluation]** Metrics / Benchmarks / Evaluation Harnesses
+  - 2026-10-15. **[RAG]** Chunking / Retrieval / Evaluation / Vector Search
