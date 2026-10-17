@@ -26,4 +26,5 @@
   - 2026-10-15. **[RAG]** Chunking / Retrieval / Evaluation / Vector Search
 
 ## Agent
-  - 2026-10-16. **[Basics]** Chat Model / Tool Use / Retrieval / Graph / Memory
+  - 2026-10-16. **[Basics]** An overview of the core topics on agentic AI.
+  - 2026-10-17. **[Basics]** A quick overview and practice on `langchain` and `langgraph` APIs.
