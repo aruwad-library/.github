@@ -32,3 +32,4 @@
   - 2026-10-19. **[Memory]** RAG / Message State
   - 2026-10-20. **[Memory]** Memory Types / Retrieval / Management
   - 2026-10-21. **[Architecture]** Graph
+  - 2026-10-22. **[Reasoning]** ReAct / Plan-and-Execute
