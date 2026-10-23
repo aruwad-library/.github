@@ -33,4 +33,4 @@
   - 2026-10-20. **[Memory]** Memory Types / Retrieval / Management
   - 2026-10-21. **[Architecture]** Graph
   - 2026-10-22. **[Reasoning]** ReAct / Plan-and-Execute
-  - 2026-10-23. **[Agent Learning]** (wip)
+  - 2026-10-23. **[Agent Learning]** Rollout / Agent SFT / Reward / Credit Assignments / PPO / GRPO / DPO
