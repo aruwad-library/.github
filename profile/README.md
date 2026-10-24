@@ -39,4 +39,4 @@
 ---
 
 ## Competitions
-### 1. (Google - Gemma 4)[https://www.kaggle.com/competitions/gemma-4-developer-agent]
+### 1. [Google - Gemma 4](https://www.kaggle.com/competitions/gemma-4-developer-agent)
