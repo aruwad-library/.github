@@ -36,4 +36,5 @@
   - 2026-10-23. **[Agent Learning]** Rollout / Agent SFT / Reward / Credit Assignments / PPO / GRPO / DPO
   - 2026-10-24. **[Context Engineering]** Just-in-Time Retrieval / Trimming / Summarization / Offloading / etc, **[Agent Environment]** Internet Use / Computer Use / Browser Automation / Code Execution / Database / MCP
 ---
-  - 2026-10-25. Review - Chat Model
+  - 2026-10-25. **[Chat Model]** Prompt Template / Chat Model / Chain
+  - 2026-10-26. **[Agent]** Create / Context / Tool / Middleware / Response / Visualize
