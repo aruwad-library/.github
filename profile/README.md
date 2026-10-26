@@ -35,6 +35,7 @@
   - 2026-10-22. **[Reasoning]** ReAct / Plan-and-Execute
   - 2026-10-23. **[Agent Learning]** Rollout / Agent SFT / Reward / Credit Assignments / PPO / GRPO / DPO
   - 2026-10-24. **[Context Engineering]** Just-in-Time Retrieval / Trimming / Summarization / Offloading / etc, **[Agent Environment]** Internet Use / Computer Use / Browser Automation / Code Execution / Database / MCP
+  - 2026-10-25 ~ (wip). Review / Practice / Clean-up
 
 ---
 
