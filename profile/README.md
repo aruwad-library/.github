@@ -37,4 +37,4 @@
   - 2026-10-24. **[Context Engineering]** Just-in-Time Retrieval / Trimming / Summarization / Offloading / etc, **[Agent Environment]** Internet Use / Computer Use / Browser Automation / Code Execution / Database / MCP
 ---
   - 2026-10-25. **[Chat Model]** Prompt Template / Chat Model / Chain
-  - 2026-10-26. **[Agent]** Create / Context / Tool / Middleware / Response / Visualize
+  - 2026-10-26. **[Agent]** Create / Context / Tool / Response / Visualize
