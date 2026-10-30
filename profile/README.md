@@ -12,7 +12,6 @@
   - 2026-10-04. **[Supervised Learning]** Decision Tree / Random Forest / Gradient-Boosted Decision Trees
   - 2026-10-05. **[Unsupervised Learning]** Clustering / Density Estimation / Dimensionality Reduction
   - 2026-10-06. **[Model Selection]** Evaluation / Hyperparameter Optimization / Ensemble
----
   - 2026-10-07. **[Competition]** House Price - 1st day
   - 2026-10-08. **[Competition]** House Price - 2nd day **(top 3.89%; 153 / 3,931)**
   - 2026-10-09. **[Competition]** H1N1 - 1st day **(top 3.92%; 96/2448)**
@@ -35,6 +34,5 @@
   - 2026-10-22. **[Reasoning]** ReAct / Plan-and-Execute
   - 2026-10-23. **[Agent Learning]** Rollout / Agent SFT / Reward / Credit Assignments / PPO / GRPO / DPO
   - 2026-10-24. **[Context Engineering]** Just-in-Time Retrieval / Trimming / Summarization / Offloading / etc, **[Agent Environment]** Internet Use / Computer Use / Browser Automation / Code Execution / Database / MCP
----
   - 2026-10-25. **[Chat Model]** Prompt Template / Chat Model / Chain
   - 2026-10-26. **[Agent]** Create / Context / Tool / Response / Visualize
