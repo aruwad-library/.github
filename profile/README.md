@@ -4,7 +4,7 @@
   - **Strong Technical Foundation:** Broad knowledge spanning traditional ML, NLP, and AI agents.
   - **0-to-1 Execution:** Hands-on research engineer at two startups, independently leading six projects end-to-end—from problem definition and recent literature review to in-depth research, fast prototyping, and deployment.
   - **Business-Driven Mindset:** Experience delivering productized solutions with demonstrated business impact.
-  - **Proven Track Record:** 10 research papers, 5 competition projects (leaderboard results and internal validation studies), and 6 industry projects.
+  - **Proven Track Record:** 10 research papers, 5 competition projects, and 6 industry projects.
   - **Production ML:** Bridge research and production by building deployable AI services, from model serving and API development to containerization and cloud deployment on AWS.
 ## Education
   - M.S. in Computer Science, Yonsei University (2017.2 - 2019.7)
