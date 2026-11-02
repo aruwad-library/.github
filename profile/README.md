@@ -23,5 +23,5 @@
 -  `ai-competitions`: official competitions on AI/ML
 
 # History
-- 2026-10-26. An one-month intensive revision on AI/ML in `ai-summary`.
+- 2026-10-02 ~ 2026-10-26. An one-month intensive revision on AI/ML in `ai-summary`.
 
