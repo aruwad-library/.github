@@ -18,10 +18,4 @@
   - Machine Learning Engineer, Doohoma Company (2019.4 - 2019.9)
   - Machine Learning Engineer, KLAI (2018.10 - 2019.4)
 
-# Repositories
--  `ai-summary`: a solid foundation on AI/ML
--  `ai-competitions`: official competitions on AI/ML
-
-# History
-- 2026-10-02 ~ 2026-10-26. An one-month intensive revision on AI/ML in `ai-summary`.
 
