@@ -1,38 +1,27 @@
-# About
-- An archive of my intellectual activities.
+# About Me
+- Highlights
+  - **AI/ML Researcher & Engineer:** 6+ years of experience in AI/ML.
+  - **Strong Technical Foundation:** Broad knowledge spanning traditional ML, NLP, and AI agents.
+  - **0-to-1 Execution:** Hands-on research engineer at two startups, independently leading six projects end-to-end—from problem definition and recent literature review to in-depth research, fast prototyping, and deployment.
+  - **Business-Driven Mindset:** Experience delivering productized solutions with demonstrated business impact.
+  - **Proven Track Record:** 10 research papers, 5 competition results (approximately top 5–10%), and 6 industry projects.
+  - **Production ML:** Bridge research and production by building deployable AI services, from model serving and API development to containerization and cloud deployment on AWS.
+- Education
+  - M.S. in University of Yonsei, dept. of Computer Science (2017.2 - 2019.7)
+  - B.S. in University of Yonsei, dept. of Computer Science (2010.2 - 2017.2)
+  - Highschool Diploma, Dongducheon Foreign Language Highschool (2007.7 - 2010.2)
+- Work Experience
+  - Head of AI, AlgoLab (2025.1 - 2026.6)
+  - Technical Advisor, Viniq AI (2024.8 - 2024.12)
+  - Software Architect, Albiti (2023.2 - 2024.2; continuous on Konan Technology)
+  - Machine Learning Engineer, Konan Technology (2020.2 - 2023.2)
+  - Machine Learning Engineer, Doohoma Company (2019.4 - 2019.9)
+  - Machine Learning Engineer, KLAI (2018.10 - 2019.4)
 
-# List
+# Repositories
 -  `ai-summary`: a solid foundation on AI/ML
 -  `ai-competitions`: official competitions on AI/ML
 
 # History
-## `ai-summary` - Traditional ML
-  - 2026-10-02. **[Data Preparation]** Load / Preprocessing / EDA
-  - 2026-10-03. **[Supervised Learning]** Linear Models / SVM / Naive Bayes / Gaussian Process
-  - 2026-10-04. **[Supervised Learning]** Decision Tree / Random Forest / Gradient-Boosted Decision Trees
-  - 2026-10-05. **[Unsupervised Learning]** Clustering / Density Estimation / Dimensionality Reduction
-  - 2026-10-06. **[Model Selection]** Evaluation / Hyperparameter Optimization / Ensemble
-  - 2026-10-07. **[Competition]** House Price - 1st day
-  - 2026-10-08. **[Competition]** House Price - 2nd day **(top 3.89%; 153 / 3,931)**
-  - 2026-10-09. **[Competition]** H1N1 - 1st day **(top 3.92%; 96/2448)**
+- 2026-10-26. An one-month intensive revision on AI/ML in `ai-summary`.
 
-## `ai-summary` - NLP
-  - 2026-10-10. **[Transformer]** Tokenizer / Embedding / Attention
-  - 2026-10-11. **[Tokenizer]** API / Normalizer / Pre-Tokenizer / Model / Post-Processor, **[Competition]** Arena - 1st day
-  - 2026-10-12. **[Transformer]** RoPE / GQA / KV-Cache / Causal Mask / LM Head, **[Pretraining]** `TinyLM`, **[Competition]** Arena - 2nd day
-  - 2026-10-13. **[Fine-Tuning]** Head-Only / QLoRA / HPO / SFT / DPO, **[Competition]** Arena - 3rd day **(top 11.20%; 28 / 250)**
-  - 2026-10-14. **[Generation]** Sampling / KV-Cache / Batching, **[Evaluation]** Metrics / Benchmarks / Evaluation Harnesses
-  - 2026-10-15. **[RAG]** Chunking / Retrieval / Evaluation / Vector Search
-
-## `ai-summary` - Agent
-  - 2026-10-16. **[Basics]** Introduction on the agent and `langchain`.
-  - 2026-10-17. **[Basics]** Introduction on `langgraph` and `langmem`.
-  - 2026-10-18. **[Basics]** Chat Model / Component Integration / Tool Use
-  - 2026-10-19. **[Memory]** RAG / Message State
-  - 2026-10-20. **[Memory]** Memory Types / Retrieval / Management
-  - 2026-10-21. **[Architecture]** Graph
-  - 2026-10-22. **[Reasoning]** ReAct / Plan-and-Execute
-  - 2026-10-23. **[Agent Learning]** Rollout / Agent SFT / Reward / Credit Assignments / PPO / GRPO / DPO
-  - 2026-10-24. **[Context Engineering]** Just-in-Time Retrieval / Trimming / Summarization / Offloading / etc, **[Agent Environment]** Internet Use / Computer Use / Browser Automation / Code Execution / Database / MCP
-  - 2026-10-25. **[Chat Model]** Prompt Template / Chat Model / Chain
-  - 2026-10-26. **[Agent]** Create / Context / Tool / Response / Visualize
