@@ -1,4 +1,8 @@
 # About Me
+## Contact
+- GitHub: [link](https://github.com/aruwad-library)
+- LinkedIn: [link](https://www.linkedin.com/in/keehoon-k-a09732343/)
+- Email: aruwad.public@gmail.com
 ## Highlights
   - **AI/ML Researcher & Engineer:** 6+ years of experience in AI/ML.
   - **Strong Technical Foundation:** Broad knowledge spanning traditional ML, NLP, and AI agents.
