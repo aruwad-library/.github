@@ -21,7 +21,7 @@
   - Head of AI, AlgoLab (2025.1 - 2026.6)
   - Technical Advisor, Viniq AI (2024.8 - 2024.12)
   - Software Architect, Albiti (2023.2 - 2024.2; continued CGMS work from Konan Technology)
-  - Machine Learning Engineer, Konan Technology (2020.2 - 2023.2)
+  - Machine Learning Research Engineer, Konan Technology (2020.2 - 2023.2)
   - Machine Learning Engineer (part-time), Doohoma Company (2019.4 - 2019.9)
   - Machine Learning Engineer (part-time), KLAI (2018.10 - 2019.4)
 
